@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "pushbullet":     {
+      "description": "Client for PushBullet",
+      "version"    : "1.0",
+      "key"        : "API-KEY"
+    }
+  }
+}
